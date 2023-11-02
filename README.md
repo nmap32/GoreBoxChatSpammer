@@ -11,5 +11,8 @@ To make it work you need to drag and drop both of these files into C:\
 Also do not make any folders and do not add these files in it or it will not work just put them in C:\
 # What key runs the script?
 The Insert key
+# When i press Insert nothing happends
+Just check if your keyboard language is English
+And also check if GoreBox.exe is running as administrator if it does just turn this off
 # Thanks for reading!
 Also sorry for this closing python console lol
